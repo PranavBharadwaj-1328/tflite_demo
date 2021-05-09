@@ -1,6 +1,6 @@
 # tflite_demo
 
-A new Flutter application.
+Example program updated according to latest Image_picker version.
 
 ## Getting Started
 
